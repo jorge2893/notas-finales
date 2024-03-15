@@ -12,7 +12,7 @@ var cssnota3 = Number(prompt("Ingresa nota 3 de CSS"));
 
 var csspromedio = (cssnota1 + cssnota2 + cssnota3) / 3;
 
-console.log("Promedio CSS: ", csspromediopromedio);
+console.log("Promedio CSS: ", csspromedio);
 
 var javanota1 = Number(prompt("Ingresa nota 1 de JavaScript"));
 var javanota2 = Number(prompt("Ingresa nota 2 de JavaScript"));
