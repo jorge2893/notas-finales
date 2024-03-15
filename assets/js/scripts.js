@@ -37,8 +37,3 @@ document.getElementById("javapromedio").innerText = javapromedio.toFixed(2);
 
 var promediogeneral = (htmlpromedio + csspromedio + javapromedio) / 3;
 document.getElementById("promediogeneral").innerText = promediogeneral.toFixed(2);
-
-let formRegistro = document.getElementById("datosestudiantes");
-formRegistro.addEventListener("submit", function(event){
-    event.preventDefault();
-});
