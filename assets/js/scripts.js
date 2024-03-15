@@ -31,7 +31,7 @@ document.getElementById("htmlpromediotabla").innerText = htmlpromedio.toFixed(2)
 document.getElementById("cssnota1tabla").innerText = cssnota1.toFixed(2);
 document.getElementById("cssnota2tabla").innerText = cssnota2.toFixed(2);
 document.getElementById("cssnota3tabla").innerText = cssnota3.toFixed(2);
-document.getElementById("cssnpromediotabla").innerText = csspromedio.toFixed(2);
+document.getElementById("csspromediotabla").innerText = csspromedio.toFixed(2);
 
 document.getElementById("javanota1tabla").innerText = javanota1.toFixed(2);
 document.getElementById("javanota2tabla").innerText = javanota2.toFixed(2);
